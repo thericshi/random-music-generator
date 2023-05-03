@@ -4,7 +4,7 @@ import RandomChordGenerator from "./RandomChordGenerator";
 function App() {
   return (
     <div>
-      <h1>Random Chord Generator</h1>
+      <h1>Random Music Generator</h1>
       <RandomChordGenerator />
     </div>
   );
